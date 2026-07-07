@@ -4,6 +4,16 @@ body {
   font-family: sans-serif;
 }
 
+h2 {
+  color: gold;
+  text-align: left;
+}
+
+h4 {
+  color: red;
+  text-align: left;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
