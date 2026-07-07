@@ -14,6 +14,11 @@ h4 {
   text-align: left;
 }
 
+::selection {
+  background-color: orange;
+  color: white;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
