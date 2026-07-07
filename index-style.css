@@ -75,3 +75,14 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.menu-item {
+    position: relative;
+}
+
+.dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: none;
+}
