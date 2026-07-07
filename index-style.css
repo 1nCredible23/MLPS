@@ -24,6 +24,11 @@ div {
     text-decoration: none;
 }
 
+::selection {
+  background-color: orange;
+  color: white;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
