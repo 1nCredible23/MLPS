@@ -2,6 +2,11 @@ body {
   color: black;
   background-color: white;
   font-family: sans-serif;
+  background-image: url('https://www.cpusa.org/wp-content/uploads/2021/02/Marx-and-Engels-painting.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 h1 {
