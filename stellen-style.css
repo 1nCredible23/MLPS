@@ -4,6 +4,15 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+  color: gold;
+}
+
+::selection {
+  background-color: orange;
+  color: white;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
