@@ -2,6 +2,10 @@ body {
     color: black;
     background-color: white;
     font-family: sans-serif;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/07/Marx_Lenin_oval.svg');
+    background-size: 40%;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 h1 {
