@@ -1,10 +1,11 @@
 body {
   color: black;
   background-color: white;
-  background-image: url('');
+  background-image: url('https://i.pinimg.com/originals/61/9d/96/619d961fcfcc6d1592a6bf5d48c5ffb2.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 ul {
