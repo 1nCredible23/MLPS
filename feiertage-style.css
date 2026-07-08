@@ -4,6 +4,14 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+  text-align: center;
+}
+
+img {
+  
+}
+
 ul {
     list-style-type: none;
     margin: 0;
