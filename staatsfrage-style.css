@@ -4,7 +4,7 @@ body {
   background-image: url('https://i.pinimg.com/originals/61/9d/96/619d961fcfcc6d1592a6bf5d48c5ffb2.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 50%;
   background-position: center;
 }
 
