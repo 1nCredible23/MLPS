@@ -18,7 +18,8 @@ h4 {
 }
 
 ::selection {
-  
+  background-color: orange;
+  color: white;
 }
 
 ul {
