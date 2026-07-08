@@ -15,7 +15,10 @@ body {
 
 h1 {
   color: black;
-  background-color: white;
+  text-align: center;
+}
+
+h2 {
   text-align: center;
 }
 
