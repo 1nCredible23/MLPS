@@ -2,6 +2,11 @@ body {
   color: black;
   background-color: white;
   font-family: sans-serif;
+  background-image: url('https://www.meisterdrucke.uk/kunstwerke/1260px/Sergei%20Arsenevich%20Vinogradov%20-%20The%20Intervention%20of%20Vladimir%20Lenin%20%281870-1924%29%20at%20the%202nd%20Co%20-%20%28MeisterDrucke-267485%29.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 ul {
