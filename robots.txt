@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://1ncredible23.github.io/MLPS/sitemap.xml
