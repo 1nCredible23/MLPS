@@ -2,10 +2,6 @@ body {
   color: black;
   background-color: white;
   font-family: sans-serif;
-  background-image: url('https://preview.redd.it/long-live-the-bolshevik-party-the-lenin-stalin-party-the-v0-7kg1gpy9a8xe1.jpeg?auto=webp&s=76d3b072a356f465c224af96c49cb29351c53ec4');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
 }
 
 ::selection {
